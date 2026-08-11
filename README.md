@@ -44,4 +44,4 @@ The main goal was to clean the raw transactional data, test key business hypothe
 ---
 
 ## Tableau Dashboard
-* **Interactive Dashboard:** [Tableau Public](#) *(додай своє посилання)*
+* **Interactive Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/yaryna.uhryn/viz/SalesOverview_17864232779740/SalesDashboard2?publish=yes)
